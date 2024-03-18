@@ -1,0 +1,93 @@
+AAL "American Airlines Group" 14.00 17.43 24.50%
+AAPL "Apple" 171.13 205.27 19.95%
+ADBE "Adobe" 573.55 613.14 6.90%
+ADI "Analog Devices" 198.60 206.26 3.86%
+ADP "Automatic Data Processing" 244.21 254.58 4.25%
+ADSK "Autodesk" 258.70 270.78 4.67%
+ALGN "Align Technology" 320.69 336.27 4.86%
+AMAT "Applied Materials" 200.56 191.83 -4.35%
+AMD "Advanced Micro Devices" 194.79 181.82 -6.66%
+AMGN "Amgen" 275.99 295.30 7.00%
+AMZN "Amazon.com" 176.56 197.95 12.11%
+ANSS "ANSYS" 329.37 322.75 -2.01%
+ASML "ASML" 968.78 962.60 -0.64%
+AVGO "Broadcom" 1257.87 1154.45 -8.22%
+BIDU "Baidu" 107.89 176.69 63.77%
+BIIB "Biogen" 226.56 305.68 34.92%
+BKNG "Booking" 3500.00 3697.38 5.64%
+BMRN "BioMarin Pharmaceutical" 84.77 107.61 26.94%
+CDNS "Cadence Design Systems" 306.21 311.33 1.67%
+CDW "CDW" 248.63 223.60 -10.07%
+CHKP "Check Point Software Technologies" 164.80 157.32 -4.54%
+CHTR "Charter Communications" 298.40 416.75 39.66%
+CMCSA "Comcast" 43.28 49.67 14.76%
+COST "Costco Wholesale" 734.20 663.29 -9.66%
+CPRT "Copart" 56.25 50.00 -11.11%
+CSCO "Cisco Systems" 50.11 56.36 12.47%
+CSGP "CoStar Group" 87.81 91.80 4.54%
+CSX "CSX" 37.78 36.24 -4.08%
+CTAS "Cintas" 623.28 571.29 -8.34%
+CTSH "Cognizant Technology Solutions" 77.02 75.43 -2.06%
+DLTR "Dollar Tree" 128.42 152.50 18.75%
+EA "Electronic Arts" 136.96 146.94 7.29%
+EBAY "eBay" 52.41 48.84 -6.81%
+EXC "Exelon" 36.99 38.82 4.95%
+EXPE "Expedia Group" 135.32 149.29 10.32%
+FAST "Fastenal" 75.04 62.83 -16.27%
+META "Meta Platforms" 495.57 494.53 -0.21%
+FOX "FOX" 27.09 35.00 29.20%
+FOXA "FOX" 29.78 33.45 12.32%
+GILD "Gilead Sciences" 75.94 85.36 12.40%
+GOOG "Alphabet" 140.77 146.33 3.95%
+GOOGL "Alphabet" 139.79 153.65 9.91%
+IDXX "IDEXX Laboratories" 540.18 591.50 9.50%
+ILMN "Illumina" 132.78 166.95 25.73%
+INCY "Incyte" 58.92 76.20 29.33%
+INTC "Intel" 43.23 41.48 -4.05%
+INTU "Intuit" 655.07 633.29 -3.32%
+ISRG "Intuitive Surgical" 382.99 371.60 -2.97%
+JD "JD.com" 28.01 39.64 41.52%
+KHC "Kraft Heinz" 34.53 40.57 17.49%
+KLAC "KLA" 688.71 623.06 -9.53%
+LBTYA "Liberty Global" 17.19 26.99 57.01%
+LRCX "Lam Research" 926.71 811.68 -12.41%
+LULU "Lululemon Athletica" 465.55 493.87 6.08%
+MAR "Marriott International" 251.41 230.80 -8.20%
+MCHP "Microchip Technology" 90.54 91.33 0.87%
+MDLZ "Mondelez International" 71.49 81.37 13.82%
+MELI "MercadoLibre" 1550.62 1815.00 17.05%
+MNST "Monster Beverage" 60.85 62.43 2.60%
+MSFT "Microsoft" 415.10 415.00 -0.02%
+MU "Micron Technology" 94.16 97.27 3.30%
+NFLX "Netflix" 609.45 565.61 -7.19%
+NTAP "NetApp" 103.19 97.94 -5.09%
+NTES "NetEase" 109.93 126.00 14.62%
+NVDA "NVIDIA" 908.88 829.66 -8.72%
+NXPI "NXP Semiconductors" 250.98 238.75 -4.87%
+ORLY "O&rsquo;Reilly Automotive" 1101.40 1056.44 -4.08%
+PAYX "Paychex" 122.13 123.17 0.85%
+PCAR "PACCAR" 115.97 104.96 -9.49%
+PEP "PepsiCo" 165.30 187.77 13.59%
+PYPL "PayPal" 62.45 70.63 13.10%
+QCOM "QUALCOMM" 169.25 148.71 -12.14%
+REGN "Regeneron Pharmaceuticals" 965.47 950.35 -1.57%
+ROST "Ross Stores" 147.09 155.21 5.52%
+SBUX "Starbucks" 91.61 111.43 21.64%
+SIRI "Sirius XM" 4.14 4.98 20.29%
+SNPS "Synopsys" 561.20 594.60 5.95%
+SPLK "Splunk" 156.65 135.31 -13.62%
+SWKS "Skyworks Solutions" 107.38 115.10 7.19%
+TCOM "Trip.com Group" 44.67 52.13 16.70%
+TMUS "T-Mobile US" 164.09 184.93 12.70%
+TSLA "Tesla" 169.48 215.26 27.01%
+TTWO "Take-Two Interactive Software" 144.89 172.50 19.06%
+TXN "Texas Instruments" 172.68 173.89 0.70%
+UAL "United Airlines" 43.04 66.21 53.83%
+ULTA "Ulta Beauty" 567.18 535.35 -5.61%
+VRSK "Verisk Analytics" 236.26 252.15 6.73%
+VRSN "VeriSign" 191.17 241.00 26.07%
+VRTX "Vertex Pharmaceuticals" 413.20 417.27 0.98%
+WBA "Walgreens Boots Alliance" 21.05 25.83 22.71%
+WDAY "Workday" 269.73 293.61 8.85%
+WDC "Western Digital" 62.48 62.00 -0.77%
+XEL "Xcel Energy" 51.50 63.83 23.94%
